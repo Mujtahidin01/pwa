@@ -1,0 +1,22 @@
+{
+    "short_name": "Mujatahidin",
+    "name": "muja",
+    "icons": [
+        {
+            "src": "/image/icons8-home-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/image/icons8-home-384.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        }
+    ],
+    "start_url": "/index.html",
+    "background_color": "#3367D6",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#3367D6",
+    "orientation": "portrait"
+}
